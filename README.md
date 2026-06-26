@@ -91,7 +91,7 @@ Infrastructure-as-Code-with-Terraform/
 │   ├── terraform.tfstate
 │   ├── terraform.tfstate.backup
 │   └── .terraform.lock.hcl
-│
+├── Infrastructure-as-Code-with-Terraform.pdf
 └── README.md
 ```
 
